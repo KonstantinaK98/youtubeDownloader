@@ -3,8 +3,9 @@ from tkinter import *
 root = Tk()
 root.geometry('500x350')
 root.title('My Youtube Downloader')
+root.configure(background="#434343")
 
-titleLabel = Label(root, text="Youtube Downloader", font=("Arial" , 14), pady=10)
+titleLabel = Label(root, text="Youtube Downloader", font=("Arial" , 14), fg="white" ,bg="#434343", pady=10)
 titleLabel.pack()
 
 urlEntry = Entry(root, width=50)
