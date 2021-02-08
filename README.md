@@ -10,4 +10,6 @@ A simple Youtube Downloader GUI with Python (Tkinter)
    pip install pytube
 ```
 
+You should replace the filepath in order to download the file in your own folder
+
 ![ytdownloader](/images/ytdownloader.png)
