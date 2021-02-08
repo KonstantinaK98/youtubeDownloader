@@ -7,7 +7,7 @@ root.geometry('500x350')
 root.title('My Youtube Downloader')
 root.configure(background="#5f9ea0")
 root.resizable(False,False)
-root.iconbitmap('youtubeIcon.ico')
+root.iconbitmap('images/youtubeIcon.ico')
 
 option = StringVar()
 option.set("audio")
