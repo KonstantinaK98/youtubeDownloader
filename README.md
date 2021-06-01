@@ -8,6 +8,7 @@ A simple Youtube Downloader GUI with Python (Tkinter)
 ```Python
    pip install pafy
    pip install pytube
+   pip install youtube_dl
 ```
 
 You should replace the filepath in order to download the file in your own folder
